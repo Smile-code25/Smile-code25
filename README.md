@@ -48,7 +48,7 @@ class Sakshi:
 |---|---|---|---|
 | Sangola College, Solapur University | B.Sc. (ECS) — *Pursuing* | CGPA: 9.54 (FY) · 9.21 (SY) | 2026 |
 | N.E.S. & Jr. College, Bhalawani | HSC (Science) | 69.67% | — |
-| Hanuman High School, Tandulwadi | SSC | 83.60% | — |
+| Hanuman HighSchool, Tandulwadi | SSC | 83.60% | — |
 
 ---
 
@@ -106,7 +106,7 @@ class Sakshi:
 
 | 🏅 Certificate | ✅ Status |
 |---|---|
-| Basics of Programming | Completed |
+| Basics of Python | Completed |
 | AI for Data Visualization | Completed |
 
 </div>
