@@ -100,14 +100,16 @@ class Sakshi:
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Courses
 
 <div align="center">
 
-| 🏅 Certificate | ✅ Status |
+| 🏅 Certificates | ✅ Status |
 |---|---|
+| Python Foundation Certification | Completed |
 | Basics of Python | Completed |
 | AI for Data Visualization | Completed |
+| Azure Fundamentals: Cloud Computing | Completed |
 
 </div>
 
