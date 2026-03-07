@@ -117,10 +117,10 @@ class Sakshi:
 
 ## 💡 Soft Skills
 
-<div align="center">
+<p align="center">
+🔍 **Analytical Thinking** &nbsp;|&nbsp; 🔄 **Adaptability** &nbsp;|&nbsp; 🎯 **Problem Solving** &nbsp;|&nbsp; 🤝 **Team Collaboration** &nbsp;|&nbsp; 🗣 **Communication Skills** &nbsp;|&nbsp; ⏱ **Time Management**
 
-🔍 **Analytical Thinking** &nbsp;|&nbsp; 🔄 **Adaptability** &nbsp;|&nbsp; 🎯 **Problem Solving** &nbsp;|&nbsp; 🤝 **Team Collaboration**
-
+---
 </div>
 
 ---
