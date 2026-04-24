@@ -80,25 +80,6 @@ class Sakshi:
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-### 🚇 Online Metro Ticket Booking System
-
-</div>
-
-> A **Python-based** metro ticketing solution designed to modernize the passenger booking experience and reduce station congestion.
-
-**✨ Key Features:**
-- 🗺️ **Route Selection** — Intuitive route browsing and selection interface
-- 💳 **Secure Payment Processing** — Safe and seamless transaction handling
-- 📱 **QR Code Ticket Generation** — Digital tickets for fast, contactless entry
-- ⏱️ **Advance Booking** — Book tickets ahead of time with ease
-
-**🔧 Tech Used:** `Python` · `QR Code Libraries` · `Payment Integration`
-
----
 
 ## 📜 Certifications & Courses
 
